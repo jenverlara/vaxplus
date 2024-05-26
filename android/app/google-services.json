@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876225491334",
+    "project_id": "vaxplus-f6fd7",
+    "storage_bucket": "vaxplus-f6fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876225491334:android:c480ada49580e5724c3c07",
+        "android_client_info": {
+          "package_name": "com.example.vaxplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAax-LOGYafVuE6WY3MWESsIqflgtStBsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
